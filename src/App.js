@@ -285,7 +285,7 @@ function App() {
       You can view my full resume here:
     </p>
     <a 
-      href="https://drive.google.com/file/d/1DVS6ZLS0OmVCevmYJzMMaVU83xqFWXQ7/view?usp=sharing" 
+      href="https://drive.google.com/file/d/1NdzajmvW5jNMMyP52zDdjhcHnBKCcKql/view?usp=sharing" 
       target="_blank" 
       rel="noopener noreferrer" 
       className="text-blue-500 hover:underline"
@@ -311,7 +311,7 @@ function App() {
               {/* Social Media Links */}
               <div className="flex justify-center space-x-8 mb-8">
                 <a
-                  href="mailto:your.email@example.com"
+                  href="mailto:oijayaweera@gmail.com"
                   className="text-gray-200 hover:text-teal-400 transition-colors duration-300 transform hover:scale-110"
                 >
                   <svg
